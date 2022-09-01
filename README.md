@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @biancaraiiane
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning tecnology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## It's me Bianca Raiane web developer getting degree
+<div align="center">
+  <a href="https://www.linkedin.com/in/bianca-raiane-18556b127/">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaraiiane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaraiiane&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1009940967287173161/1014734862659371029/download20220803002140.png">
+</div>
 
-<!---
-biancaraiiane/biancaraiiane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##
+
+<div>
+ <a href="https://www.instagram.com/biancaraiiane/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/bianca-raiane-18556b127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/biancaraiiane/biancaraiiane/blob/output/github-contribution-grid-snake.svg)
+ </div>
