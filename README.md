@@ -22,7 +22,7 @@
  
   </div>
 
-##
+###
 
 <img src="https://raw.githubusercontent.com/biancaraiiane/biancaraiiane/output/snake.svg" alt="Snake animation" />
 
