@@ -1,8 +1,9 @@
 ## It's me Bianca Raiane web developer getting degree
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/bianca-raiane-18556b127/">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaraiiane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaraiiane&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://www.linkedin.com/in/bianca-raiane-18556b127/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancaraiiane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=biancaraiiane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
